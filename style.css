@@ -292,3 +292,11 @@ h3 {
 .contact-content .column .contact-form .btn {
     margin-left: .8rem;
 }
+
+/* footer */
+footer {
+    background: blue;
+    padding: 15px 23px;
+    color: #fff;
+    text-align: center;
+}
