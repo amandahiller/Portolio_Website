@@ -303,11 +303,16 @@ h3 {
     margin-left: .8rem;
 }
 
-
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 
 /* footer */
 footer {
-    background: blue;
+    background: #02315E;
     padding: 15px 23px;
     color: #fff;
     text-align: center;
