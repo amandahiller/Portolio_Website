@@ -139,23 +139,19 @@ h3 {
     font-weight: 600;
 }
 
-#home .btn {
-    margin-left: 1rem;
-    font-size: 1.5rem;
-}
 
-/* Portfolio */
-.portfolio .container h2 {
+/* Certificates */
+.certificates .container h2 {
     margin-top: .5rem;
 }
 
-.projects {
+.certificates {
     display: flex;
     flex-wrap: wrap;
     padding: .5rem;
 }
 
-.project {
+.certificates {
     flex: 1;
     padding: 1.5rem;
 
@@ -165,8 +161,22 @@ h3 {
     max-width: 450px;
 }
 
+#project {
+    max-width: 450px;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
 .project-content {
     max-width: 450px;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
 
 }
 
@@ -195,13 +205,13 @@ h3 {
 
 }
 
-/* About */
-#about p {
+/* Letter */
+#letter p {
     padding: .5rem;
     margin-bottom: 0.5rem;
 }
 
-#about .btn {
+#letter .btn {
     margin-left: .5rem;
 }
 
@@ -292,6 +302,8 @@ h3 {
 .contact-content .column .contact-form .btn {
     margin-left: .8rem;
 }
+
+
 
 /* footer */
 footer {
